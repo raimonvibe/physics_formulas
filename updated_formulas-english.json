@@ -137,6 +137,7 @@
     },
     {
         "term": "Definitions of Trigonometric Functions",
-        "meaning": "\\( \\sin \\theta = \\frac{\\text{opposite}}{\\text{hypotenuse}}, <br> \\quad \\cos \\theta = \\frac{\\text{adjacent}}{\\text{hypotenuse}}, <br> \\quad \\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta} \\), <br>The basic definitions of sine, cosine, and tangent."
+        "meaning": "\\( \\sin \\theta = \\frac{\\text{opposite}}{\\text{hypotenuse}} \\)<br> \\( \\cos \\theta = \\frac{\\text{adjacent}}{\\text{hypotenuse}} \\)<br> \\( \\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta} \\)<br>The basic definitions of sine, cosine, and tangent."
     }
+
 ]
