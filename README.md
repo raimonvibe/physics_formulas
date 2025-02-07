@@ -42,11 +42,14 @@ cd physics_formulas
 ---
 
  ## 🚀 **Usage**  
-To start a local development server using Python, run the following command:  
+To start a local development server using Python on port 8000, run the following command:  
 
 ```bash
-python -m http.server
+python -m http.server 8000
 ```
+
+Then, open your browser and go to: [http://localhost:8000](http://localhost:8000) to explore the project.
+
 ---
 
 ## 🤝 **Contributing**  
