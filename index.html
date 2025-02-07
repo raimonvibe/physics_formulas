@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashy LaTeX Flashcards</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #B1DDC6;
+                padding: 20px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .card {
+                width: 90%;
+                max-width: 800px;
+                height: auto;
+                padding: 20px;
+                border-radius: 10px;
+                background-color: white;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                position: relative;
+                cursor: pointer;
+            }
+            h1 {
+                color: #333;
+                font-size: 2rem;
+                text-align: center;
+            }
+            .buttons {
+                margin-top: 20px;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .buttons button {
+                padding: 10px 20px;
+                font-size: 1rem;
+                margin: 10px 5px;
+                cursor: pointer;
+                border: none;
+                border-radius: 5px;
+            }
+            .known {
+                background-color: #28a745;
+                color: white;
+            }
+            .unknown {
+                background-color: #dc3545;
+                color: white;
+            }
+            .latex-output {
+                font-size: 1.5rem;
+                padding: 20px;
+            }
+        
+            /* Responsive adjustments for smaller devices */
+            @media (max-width: 768px) {
+                .card {
+                    padding: 15px;
+                }
+                .latex-output {
+                    font-size: 1.2rem;
+                }
+                .buttons button {
+                    font-size: 0.9rem;
+                    padding: 8px 15px;
+                }
+            }
+        
+            @media (max-width: 480px) {
+                h1 {
+                    font-size: 1.5rem;
+                }
+                .buttons button {
+                    width: 100%;
+                    margin: 5px 0;
+                }
+                .card {
+                    padding: 10px;
+                }
+            }
+        </style>        
+</head>
+<body>
+
+    <h1>Flashy LaTeX Flashcards</h1>
+
+    <div id="flashcard" class="card">
+        <h2 id="card-title">Term</h2>
+        <div id="latex-output" class="latex-output"></div>
+    </div>
+
+    <div class="buttons">
+        <button id="known-button" class="known">Known</button>
+        <button id="unknown-button" class="unknown">Next</button>
+    </div>
+
+    <script>
+        let flashcards = [];
+        let currentCardIndex = 0;
+        let showingTerm = true;
+
+        async function loadFlashcards() {
+            try {
+                const response = await fetch('updated_formulas-english.json');
+                const data = await response.json();
+                flashcards = data;
+                console.log('Loaded flashcards:', flashcards);
+                console.log(`Number of flashcards: ${flashcards.length}`);
+                renderCurrentCard();
+            } catch (error) {
+                console.error('Error loading flashcards:', error);
+                document.getElementById('latex-output').innerText = 'Error loading flashcards';
+            }
+        }
+
+        function renderCurrentCard() {
+            console.log('Rendering card at index:', currentCardIndex);
+            if (flashcards.length === 0) {
+                document.getElementById('latex-output').innerText = 'No more flashcards!';
+                return;
+            }
+
+            const card = flashcards[currentCardIndex];
+            console.log('Current card:', card);
+
+            // Check if card exists and has required properties
+            if (!card || !card.term || !card.meaning) {
+                console.error('Invalid card data:', card);
+                document.getElementById('latex-output').innerText = 'Error: Invalid card data';
+                return;
+            }
+
+            const content = showingTerm ? card.term : card.meaning;
+            console.log('Content to display:', content);
+
+            document.getElementById('card-title').innerText = showingTerm ? 'Term' : 'Meaning';
+            document.getElementById('latex-output').innerHTML = content;
+
+            // Force MathJax to reprocess
+            if (window.MathJax) {
+                MathJax.typesetClear();
+                MathJax.typesetPromise([document.getElementById('latex-output')])
+                    .then(() => {
+                        console.log('MathJax rendering complete');
+                    })
+                    .catch(err => {
+                        console.error('MathJax error:', err);
+                    });
+            }
+        }
+
+        function handleFlip() {
+            console.log('Flipping card');
+            showingTerm = !showingTerm;
+            renderCurrentCard();
+        }
+
+        function handleNext() {
+            console.log('Moving to next card');
+            if (flashcards.length === 0) return;
+
+            currentCardIndex++;
+            if (currentCardIndex >= flashcards.length) {
+                currentCardIndex = 0;
+            }
+
+            console.log('New card index:', currentCardIndex);
+            showingTerm = true;
+            renderCurrentCard();
+        }
+
+        function handleKnown() {
+            console.log('Marking card as known');
+            if (flashcards.length === 0) return;
+
+            flashcards.splice(currentCardIndex, 1);
+            console.log(`Removed card. Remaining cards: ${flashcards.length}`);
+
+            if (flashcards.length === 0) {
+                document.getElementById('latex-output').innerText = 'All cards completed!';
+                return;
+            }
+
+            if (currentCardIndex >= flashcards.length) {
+                currentCardIndex = 0;
+            }
+
+            showingTerm = true;
+            renderCurrentCard();
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('Initializing flashcards...');
+            document.getElementById('flashcard').onclick = handleFlip;
+            document.getElementById('known-button').onclick = handleKnown;
+            document.getElementById('unknown-button').onclick = handleNext;
+            loadFlashcards();
+        });
+    </script>
+
+</body>
+</html>

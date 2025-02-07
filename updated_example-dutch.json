@@ -1,0 +1,142 @@
+[
+    {
+        "term": "Kinetische energie (KE)",
+        "meaning": "\\( \\text{KE} = \\frac{1}{2} mv^2 \\) <br>Energie door beweging van een object."
+    },
+    {
+        "term": "Potenti\u00eble energie (PE)",
+        "meaning": "\\( \\text{PE} = mgh \\) <br>Energie door de positie in een zwaartekrachtveld."
+    },
+    {
+        "term": "Eindsnelheid (constante versnelling)",
+        "meaning": "\\( v = v_0 + at \\) <br>De snelheid na een bepaalde tijd bij constante versnelling."
+    },
+    {
+        "term": "Afgelegde afstand (constante versnelling)",
+        "meaning": "\\( s = v_0t + \\frac{1}{2} at^2 \\) <br>De totale afstand afgelegd bij constante versnelling."
+    },
+    {
+        "term": "Snelheid gerelateerd aan afstand",
+        "meaning": "\\( v^2 = v_0^2 + 2as \\) <br>De snelheid in verband met de afgelegde afstand en versnelling."
+    },
+    {
+        "term": "Tweede wet van Newton",
+        "meaning": "\\( F = ma \\) <br>De kracht die nodig is om een object te versnellen."
+    },
+    {
+        "term": "Gewichtskracht",
+        "meaning": "\\( F_{\\text{zwaartekracht}} = mg \\) <br>De kracht die de zwaartekracht uitoefent op een object."
+    },
+    {
+        "term": "Wrijvingskracht",
+        "meaning": "\\( F_{\\text{wrijv}} = \\mu N \\) <br>De weerstandskracht die een bewegend object ondervindt."
+    },
+    {
+        "term": "Impuls",
+        "meaning": "\\( p = mv \\) <br>De hoeveelheid beweging die een object bezit."
+    },
+    {
+        "term": "Behouden van impuls bij een botsing",
+        "meaning": "\\( m_1v_1 + m_2v_2 = (m_1 + m_2) v_f \\) <br>De totale impuls blijft behouden bij een botsing."
+    },
+    {
+        "term": "Wet van behoud van energie",
+        "meaning": "\\( \\text{KE} + \\text{PE} = \\text{constant} \\) <br>De totale energie blijft constant in een ge\u00efsoleerd systeem."
+    },
+    {
+        "term": "Arbeid (W)",
+        "meaning": "\\( W = Fd \\cos(\\theta) \\) <br>De energieoverdracht door kracht over een afstand."
+    },
+    {
+        "term": "Vermogen (P)",
+        "meaning": "\\( P = \\frac{W}{t} \\) <br>De hoeveelheid arbeid verricht per tijdseenheid."
+    },
+    {
+        "term": "Moment van een kracht",
+        "meaning": "\\( \\tau = r \\times F \\sin(\\theta) \\) <br>Het rotatie-effect veroorzaakt door een kracht."
+    },
+    {
+        "term": "Kinetische energie van rotatie",
+        "meaning": "\\( \\text{KE}_{\\text{rotatie}} = \\frac{1}{2} I\\omega^2 \\) <br>De energie van een draaiend object."
+    },
+    {
+        "term": "Hoekversnelling",
+        "meaning": "\\( \\alpha = \\frac{\\tau}{I} \\) <br>De verandering in hoeksnelheid per tijdseenheid."
+    },
+    {
+        "term": "Periode van een slinger",
+        "meaning": "\\( T = 2\\pi \\sqrt{\\frac{L}{g}} \\) <br>De tijd die een slinger nodig heeft om \u00e9\u00e9n volledige cyclus te voltooien."
+    },
+    {
+        "term": "Golfsnelheid",
+        "meaning": "\\( v = \\lambda f \\) <br>De snelheid waarmee een golf zich voortplant."
+    },
+    {
+        "term": "Energie in een trillend systeem",
+        "meaning": "\\( E = \\frac{1}{2} kA^2 \\) <br>De energie opgeslagen in een veersysteem of oscillator."
+    },
+    {
+        "term": "Wet van Ohm",
+        "meaning": "\\( V = IR \\) <br>De relatie tussen spanning, stroom en weerstand."
+    },
+    {
+        "term": "Elektrisch vermogen",
+        "meaning": "\\( P = IV \\) <br>Het vermogen of de energie per tijdseenheid in een elektrisch circuit."
+    },
+    {
+        "term": "Kracht op een lading",
+        "meaning": "\\( F = qE \\) <br>De kracht uitgeoefend op een elektrische lading in een elektrisch veld."
+    },
+    {
+        "term": "Magnetische flux",
+        "meaning": "\\( \\Phi = B \\cdot A \\cos(\\theta) \\) <br>Het magnetisch veld dat door een oppervlak stroomt."
+    },
+    {
+        "term": "Kracht op een bewegende lading",
+        "meaning": "\\( F = Bqv \\sin(\\theta) \\) <br>De kracht op een lading die zich beweegt in een magnetisch veld."
+    },
+    {
+        "term": "Basisverhoudingen",
+        "meaning": "\\( \\sin^2 \\theta + \\cos^2 \\theta = 1 \\) <br>De fundamentele goniometrische relatie."
+    },
+    {
+        "term": "Stelling van Pythagoras",
+        "meaning": "\\( a^2 + b^2 = c^2 \\) <br>De relatie tussen de zijden van een rechthoekige driehoek."
+    },
+    {
+        "term": "Som- en verschilformules",
+        "meaning": "\\( \\sin(a \\pm b) = \\sin a \\cos b \\pm \\cos a \\sin b \\) <br>Goniometrische relaties voor som of verschil van hoeken."
+    },
+    {
+        "term": "Dubbele hoekformules - Sinus",
+        "meaning": "\\( \\sin(2\\theta) = 2 \\sin \\theta \\cos \\theta \\) <br>De formule voor de sinus van een dubbele hoek."
+    },
+    {
+        "term": "Dubbele hoekformules - Cosinus",
+        "meaning": "\\( \\cos(2\\theta) = \\cos^2 \\theta - \\sin^2 \\theta \\) <br>De formule voor de cosinus van een dubbele hoek."
+    },
+    {
+        "term": "Dubbele hoekformules - Tangens",
+        "meaning": "\\( \\tan(2\\theta) = \\frac{2 \\tan \\theta}{1 - \\tan^2 \\theta} \\) <br>De formule voor de tangens van een dubbele hoek."
+    },
+    {
+        "term": "Halve hoekformules - Sinus",
+        "meaning": "\\( \\sin^2 \\theta = \\frac{1 - \\cos(2\\theta)}{2} \\) <br>De formule voor de sinus van een halve hoek."
+    },
+    {
+        "term": "Halve hoekformules - Cosinus",
+        "meaning": "\\( \\cos^2 \\theta = \\frac{1 + \\cos(2\\theta)}{2} \\) <br>De formule voor de cosinus van een halve hoek."
+    },
+    {
+        "term": "Halve hoekformules - Tangens",
+        "meaning": "\\( \\tan^2 \\theta = \\frac{1 - \\cos(2\\theta)}{1 + \\cos(2\\theta)} \\) <br>De formule voor de tangens van een halve hoek."
+    },
+    {
+        "term": "Secant en tangens relatie",
+        "meaning": "\\( 1 + \\tan^2 \\theta = \\sec^2 \\theta \\) <br>De relatie tussen tangens en secant."
+    },
+    {
+        "term": "Definities van goniometrische functies",
+        "meaning": "\\( \\sin \\theta = \\frac{\\text{overstaande zijde}}{\\text{schuine zijde}}, \\quad \\cos \\theta = \\frac{\\text{aanliggende zijde}}{\\text{schuine zijde}}, \\quad \\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta} \\) <br>De basisdefinities van sinus, cosinus en tangens."
+    }
+]

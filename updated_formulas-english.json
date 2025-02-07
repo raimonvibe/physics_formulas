@@ -1,0 +1,142 @@
+[
+    {
+        "term": "Kinetic Energy (KE)",
+        "meaning": "\\( \\text{KE} = \\frac{1}{2} mv^2 \\) <br>Energy due to the motion of an object."
+    },
+    {
+        "term": "Potential Energy (PE)",
+        "meaning": "\\( \\text{PE} = mgh \\) <br>Energy due to an object's position in a gravitational field."
+    },
+    {
+        "term": "Final Velocity (Constant Acceleration)",
+        "meaning": "\\( v = v_0 + at \\) <br>The velocity after a certain time under constant acceleration."
+    },
+    {
+        "term": "Displacement (Constant Acceleration)",
+        "meaning": "\\( s = v_0t + \\frac{1}{2} at^2 \\) <br>The total distance covered under constant acceleration."
+    },
+    {
+        "term": "Velocity Related to Displacement",
+        "meaning": "\\( v^2 = v_0^2 + 2as \\) <br>The velocity in relation to displacement and acceleration."
+    },
+    {
+        "term": "Newton's Second Law",
+        "meaning": "\\( F = ma \\) <br>The force required to accelerate an object."
+    },
+    {
+        "term": "Weight Force",
+        "meaning": "\\( F_{\\text{gravity}} = mg \\) <br>The force exerted on an object by gravity."
+    },
+    {
+        "term": "Frictional Force",
+        "meaning": "\\( F_{\\text{friction}} = \\mu N \\) <br>The resistive force experienced by a moving object."
+    },
+    {
+        "term": "Momentum",
+        "meaning": "\\( p = mv \\) <br>The amount of motion an object possesses."
+    },
+    {
+        "term": "Conservation of Momentum in a Collision",
+        "meaning": "\\( m_1v_1 + m_2v_2 = (m_1 + m_2) v_f \\) <br>Total momentum is conserved during a collision."
+    },
+    {
+        "term": "Law of Conservation of Energy",
+        "meaning": "\\( \\text{KE} + \\text{PE} = \\text{constant} \\) <br>Total energy remains constant in an isolated system."
+    },
+    {
+        "term": "Work (W)",
+        "meaning": "\\( W = Fd \\cos(\\theta) \\) <br>The energy transfer through force over a distance."
+    },
+    {
+        "term": "Power (P)",
+        "meaning": "\\( P = \\frac{W}{t} \\) <br>The rate of work done or energy transferred."
+    },
+    {
+        "term": "Torque",
+        "meaning": "\\( \\tau = r \\times F \\sin(\\theta) \\) <br>The rotational effect caused by a force."
+    },
+    {
+        "term": "Rotational Kinetic Energy",
+        "meaning": "\\( \\text{KE}_{\\text{rotation}} = \\frac{1}{2} I\\omega^2 \\) <br>The energy of a rotating object."
+    },
+    {
+        "term": "Angular Acceleration",
+        "meaning": "\\( \\alpha = \\frac{\\tau}{I} \\) <br>The rate of change of angular velocity."
+    },
+    {
+        "term": "Period of a Pendulum",
+        "meaning": "\\( T = 2\\pi \\sqrt{\\frac{L}{g}} \\) <br>The time taken for a pendulum to complete one cycle."
+    },
+    {
+        "term": "Wave Velocity",
+        "meaning": "\\( v = \\lambda f \\) <br>The speed at which a wave propagates."
+    },
+    {
+        "term": "Energy in a Vibrating System",
+        "meaning": "\\( E = \\frac{1}{2} kA^2 \\) <br>The energy stored in a spring or oscillator."
+    },
+    {
+        "term": "Ohm's Law",
+        "meaning": "\\( V = IR \\) <br>The relationship between voltage, current, and resistance."
+    },
+    {
+        "term": "Electric Power",
+        "meaning": "\\( P = IV \\) <br>The power or energy per unit time in an electric circuit."
+    },
+    {
+        "term": "Force on a Charge",
+        "meaning": "\\( F = qE \\) <br>The force exerted on an electric charge in an electric field."
+    },
+    {
+        "term": "Magnetic Flux",
+        "meaning": "\\( \\Phi = B \\cdot A \\cos(\\theta) \\) <br>The magnetic field passing through a surface."
+    },
+    {
+        "term": "Force on a Moving Charge",
+        "meaning": "\\( F = Bqv \\sin(\\theta) \\) <br>The force on a charge moving in a magnetic field."
+    },
+    {
+        "term": "Basic Trigonometric Identity",
+        "meaning": "\\( \\sin^2 \\theta + \\cos^2 \\theta = 1 \\) <br>The fundamental trigonometric identity."
+    },
+    {
+        "term": "Pythagorean Theorem",
+        "meaning": "\\( a^2 + b^2 = c^2 \\) <br>The relationship between the sides of a right triangle."
+    },
+    {
+        "term": "Sum and Difference Formulas",
+        "meaning": "\\( \\sin(a \\pm b) = \\sin a \\cos b \\pm \\cos a \\sin b \\) <br>Trigonometric relations for the sum or difference of angles."
+    },
+    {
+        "term": "Double Angle Formula - Sine",
+        "meaning": "\\( \\sin(2\\theta) = 2 \\sin \\theta \\cos \\theta \\) <br>The formula for the sine of a double angle."
+    },
+    {
+        "term": "Double Angle Formula - Cosine",
+        "meaning": "\\( \\cos(2\\theta) = \\cos^2 \\theta - \\sin^2 \\theta \\) <br>The formula for the cosine of a double angle."
+    },
+    {
+        "term": "Double Angle Formula - Tangent",
+        "meaning": "\\( \\tan(2\\theta) = \\frac{2 \\tan \\theta}{1 - \\tan^2 \\theta} \\) <br>The formula for the tangent of a double angle."
+    },
+    {
+        "term": "Half Angle Formula - Sine",
+        "meaning": "\\( \\sin^2 \\theta = \\frac{1 - \\cos(2\\theta)}{2} \\) <br>The formula for the sine of a half angle."
+    },
+    {
+        "term": "Half Angle Formula - Cosine",
+        "meaning": "\\( \\cos^2 \\theta = \\frac{1 + \\cos(2\\theta)}{2} \\) <br>The formula for the cosine of a half angle."
+    },
+    {
+        "term": "Half Angle Formula - Tangent",
+        "meaning": "\\( \\tan^2 \\theta = \\frac{1 - \\cos(2\\theta)}{1 + \\cos(2\\theta)} \\) <br>The formula for the tangent of a half angle."
+    },
+    {
+        "term": "Secant and Tangent Relationship",
+        "meaning": "\\( 1 + \\tan^2 \\theta = \\sec^2 \\theta \\) <br>The relationship between tangent and secant."
+    },
+    {
+        "term": "Definitions of Trigonometric Functions",
+        "meaning": "\\( \\sin \\theta = \\frac{\\text{opposite}}{\\text{hypotenuse}}, \\quad \\cos \\theta = \\frac{\\text{adjacent}}{\\text{hypotenuse}}, \\quad \\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta} \\) <br>The basic definitions of sine, cosine, and tangent."
+    }
+]
