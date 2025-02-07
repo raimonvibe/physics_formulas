@@ -41,9 +41,12 @@ cd physics_formulas
 
 ---
 
-## 🚀 **Usage**  
-Simply open the index file and start exploring categorized physics formulas.  
+ ## 🚀 **Usage**  
+To start a local development server using Python, run the following command:  
 
+```bash
+python -m http.server
+```
 ---
 
 ## 🤝 **Contributing**  
