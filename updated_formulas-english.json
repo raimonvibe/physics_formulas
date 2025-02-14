@@ -138,6 +138,52 @@
     {
         "term": "Definitions of Trigonometric Functions",
         "meaning": "\\( \\sin \\theta = \\frac{\\text{opposite}}{\\text{hypotenuse}} \\)<br> \\( \\cos \\theta = \\frac{\\text{adjacent}}{\\text{hypotenuse}} \\)<br> \\( \\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta} \\)<br>The basic definitions of sine, cosine, and tangent."
+    },
+    {
+        "term": "Torque",
+        "meaning": "\\( \\tau = r \\times F \\) <br>The rotational equivalent of force, calculated as the perpendicular force applied at a distance from the pivot point."
+    },
+    {
+        "term": "Work Done by Torque",
+        "meaning": "\\( W = \\tau \\theta \\) <br>The work done by a torque over an angular displacement."
+    },
+    {
+        "term": "Angular Position, Displacement, Velocity and Acceleration",
+        "meaning": "Angular position describes the orientation of an object in rotational motion. Displacement is the change in angular position. Angular velocity \\( \\omega \\) is the rate of change of angular displacement, and angular acceleration \\( \\alpha \\) is the rate of change of angular velocity."
+    },
+    {
+        "term": "Final Angular Velocity Formula",
+        "meaning": "\\( \\omega_f = \\omega_i + \\alpha t \\) <br>This equation describes how angular velocity changes over time when a constant angular acceleration \\( \\alpha \\) is applied. \\( \\omega_f \\) is the final angular velocity, \\( \\omega_i \\) is the initial angular velocity, and \\( t \\) is the time."
+    },
+    {
+        "term": "Angular Displacement Formula",
+        "meaning": "\\( \\theta = \\omega_i t + \\frac{1}{2} \\alpha t^2 \\) <br>This equation calculates the angular displacement \\( \\theta \\) of an object under constant angular acceleration. \\( \\omega_i \\) is the initial angular velocity, \\( \\alpha \\) is the angular acceleration, and \\( t \\) is the time."
+    },
+    {
+        "term": "Rotational Equilibrium",
+        "meaning": "\\( \\sum \\tau = 0 \\) <br>A system is in rotational equilibrium if the sum of torques acting on it is zero, meaning there is no net angular acceleration."
+    },
+    {
+        "term": "Static and Dynamic Equilibrium",
+        "meaning": "Static equilibrium means no motion (\\( \\omega = 0 \\)), while dynamic equilibrium means constant rotation (\\( \\alpha = 0 \\))."
+    },
+    {
+        "term": "Moment of Inertia",
+        "meaning": "\\( I = \\sum m_i r_i^2 \\) <br>The total moment of inertia of a system is the sum of all individual masses multiplied by the square of their distances from the axis."
+    },
+    {
+        "term": "Parallel Axis Theorem",
+        "meaning": "\\( I = I_{\\text{cm}} + Md^2 \\) <br>If an object's moment of inertia about its center of mass is known, it can be found about another axis at distance \\( d \\)."
+    },
+    {
+        "term": "Angular Momentum and Its Conservation",
+        "meaning": "\\( L = I \\omega \\) <br>Angular momentum is the rotational equivalent of linear momentum."
+    },
+    {
+        "term": "Conservation of Angular Momentum",
+        "meaning": "\\( I_1 \\omega_1 = I_2 \\omega_2 \\) <br>Angular momentum remains constant if no external torque acts on the system."
     }
 
 ]
+
+
