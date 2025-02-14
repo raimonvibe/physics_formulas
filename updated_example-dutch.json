@@ -138,5 +138,50 @@
     {
         "term": "Definities van goniometrische functies",
         "meaning": "\\( \\sin \\theta = \\frac{\\text{overstaande zijde}}{\\text{schuine zijde}} \\)<br> \\( \\cos \\theta = \\frac{\\text{aanliggende zijde}}{\\text{schuine zijde}} \\)<br> \\( \\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta} \\)<br>De basisdefinities van sinus, cosinus en tangens."
-    }
+    },
+    {
+        "term": "Koppel",
+        "meaning": "\\( \\tau = r \\times F \\) <br>Het rotatie-equivalent van kracht, berekend als de loodrechte kracht die op een afstand van het draaipunt wordt uitgeoefend."
+    },
+    {
+        "term": "Werk verricht door Koppel",
+        "meaning": "\\( W = \\tau \\theta \\) <br>Het werk dat door een koppel wordt verricht over een hoekverplaatsing."
+    },
+    {
+        "term": "Hoekpositie, Hoekverplaatsing, Hoeksnelheid en Hoekversnelling",
+        "meaning": "De hoekpositie beschrijft de oriëntatie van een object in een rotatiebeweging. Hoekverplaatsing is de verandering in hoekpositie. Hoeksnelheid \\( \\omega \\) is de snelheid waarmee de hoekpositie verandert, en de hoekversnelling \\( \\alpha \\) is de snelheid waarmee de hoeksnelheid verandert."
+    },
+    {
+        "term": "Formule voor de uiteindelijke Hoeksnelheid",
+        "meaning": "\\( \\omega_f = \\omega_i + \\alpha t \\) <br>Deze vergelijking beschrijft hoe de hoeksnelheid in de tijd verandert wanneer een constante hoekversnelling \\( \\alpha \\) wordt toegepast. \\( \\omega_f \\) is de uiteindelijke hoeksnelheid, \\( \\omega_i \\) is de begin-hoeksnelheid en \\( t \\) is de tijd."
+    },
+    {
+        "term": "Formule voor Hoekverplaatsing",
+        "meaning": "\\( \\theta = \\omega_i t + \\frac{1}{2} \\alpha t^2 \\) <br>Deze vergelijking berekent de hoekverplaatsing \\( \\theta \\) van een object onder constante hoekversnelling. \\( \\omega_i \\) is de begin-hoeksnelheid, \\( \\alpha \\) is de hoekversnelling en \\( t \\) is de tijd."
+    },
+    {
+        "term": "Rotatie-evenwicht",
+        "meaning": "\\( \\sum \\tau = 0 \\) <br>Een systeem is in rotatie-evenwicht als de som van de koppels die erop werken nul is, wat betekent dat er geen netto hoekversnelling is."
+    },
+    {
+        "term": "Statisch en Dynamisch Evenwicht",
+        "meaning": "Statisch evenwicht betekent geen beweging (\\( \\omega = 0 \\)), terwijl dynamisch evenwicht een constante rotatie betekent (\\( \\alpha = 0 \\))."
+    },
+    {
+        "term": "Traagheidsmoment",
+        "meaning": "\\( I = \\sum m_i r_i^2 \\) <br>Het totale traagheidsmoment van een systeem is de som van alle afzonderlijke massa's vermenigvuldigd met het kwadraat van hun afstand tot de rotatie-as."
+    },
+    {
+        "term": "Stelling van de Parallelle As",
+        "meaning": "\\( I = I_{\\text{cm}} + Md^2 \\) <br>Als het traagheidsmoment van een object rond zijn massacentrum bekend is, kan het worden bepaald voor een andere as op afstand \\( d \\)."
+    },
+    {
+        "term": "Hoekimpuls en het behoud ervan",
+        "meaning": "\\( L = I \\omega \\) <br>Hoekimpuls is het rotatie-equivalent van lineaire impuls."
+    },
+    {
+        "term": "Behoud van Hoekimpuls",
+        "meaning": "\\( I_1 \\omega_1 = I_2 \\omega_2 \\) <br>Hoekimpuls blijft behouden als er geen extern koppel op het systeem werkt."
+    }        
 ]
+
