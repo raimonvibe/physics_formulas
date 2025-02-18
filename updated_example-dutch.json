@@ -182,6 +182,57 @@
     {
         "term": "Behoud van Hoekimpuls",
         "meaning": "\\( I_1 \\omega_1 = I_2 \\omega_2 \\) <br>Hoekimpuls blijft behouden als er geen extern koppel op het systeem werkt."
-    }        
+    },
+    {
+        "term": "Eerste Wet van Kepler",
+        "meaning": "Planeten bewegen in elliptische banen met de zon in een van de brandpunten. <br> \\( r = \\frac{a(1 - e^2)}{1 + e \\cos \\theta} \\)"
+    },
+    {
+        "term": "Tweede Wet van Kepler",
+        "meaning": "Een lijn van de zon naar een planeet veegt gelijke oppervlakten in gelijke tijden. <br> \\( \\frac{dA}{dt} = \\frac{1}{2} r^2 \\omega = \\text{constant} \\)"
+    },
+    {
+        "term": "Derde Wet van Kepler",
+        "meaning": "Het kwadraat van de omlooptijd van een planeet is evenredig met de derde macht van de halve lange as. <br> \\( T^2 \\propto a^3 \\) of \\( T^2 = \\frac{4 \\pi^2 a^3}{G M} \\)"
+    },
+    {
+        "term": "Wet van Newton over Universele Zwaartekracht",
+        "meaning": "\\( F = G \\frac{m_1 m_2}{r^2} \\) <br> De aantrekkingskracht tussen twee massa's is evenredig met hun product en omgekeerd evenredig met het kwadraat van de afstand."
+    },
+    {
+        "term": "Baan snelheid van een Satelliet",
+        "meaning": "De snelheid die nodig is om een stabiele baan te behouden. <br> \\( v = \\sqrt{\\frac{GM}{r}} \\)"
+    },
+    {
+        "term": "Periode van een Cirkelvormige Baan",
+        "meaning": "De tijd die nodig is voor een volledige omwenteling rond een centraal lichaam. <br> \\( T = 2\\pi \\sqrt{\\frac{r^3}{GM}} \\)"
+    },
+    {
+        "term": "Ontsnappingssnelheid",
+        "meaning": "De minimale snelheid die nodig is om te ontsnappen aan het zwaartekrachtsveld van een planeet. <br> \\( v_e = \\sqrt{\\frac{2GM}{r}} \\)"
+    },
+    {
+        "term": "Gravitatie Potentiële Energie",
+        "meaning": "\\( U = -G \\frac{m_1 m_2}{r} \\) <br> De potentiële energie van een massa in een zwaartekrachtsveld."
+    },
+    {
+        "term": "Totale Energie van een Baan",
+        "meaning": "De som van de kinetische en potentiële energie in een baan. <br> \\( E = \\frac{1}{2}mv^2 - G \\frac{M m}{r} \\)"
+    },
+    {
+        "term": "Geostationaire Baan Voorwaarde",
+        "meaning": "Voor een satelliet om op een vaste positie boven de aarde te blijven. <br> \\( T = 24 \\text{ uur} \\) of \\( r = 42.164 \\text{ km} \\)"
+    },
+    {
+        "term": "Effectieve Zwaartekracht in een Baan",
+        "meaning": "De schijnbare gewichtloosheid in een baan komt door de vrije val. <br> \\( g' = g - \\frac{v^2}{r} \\)"
+    },
+    {
+        "term": "Sterkte van het Zwaartekrachtveld",
+        "meaning": "De zwaartekracht per eenheid massa op een bepaalde afstand van een planeet. <br> \\( g = \\frac{GM}{r^2} \\)"
+    }
+
 ]
+
+
 
