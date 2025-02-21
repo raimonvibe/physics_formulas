@@ -230,8 +230,23 @@
     {
         "term": "Gravitational Field Strength",
         "meaning": "The gravitational force per unit mass at a distance from a planet. <br> \\( g = \\frac{GM}{r^2} \\)"
-    }
-
+    },
+        "term": "Pascal’s Principle",
+        "meaning": "A principle stating that a change in pressure applied to an enclosed fluid is transmitted undiminished throughout the fluid. <br> \\( P_1 = P_2 \\) in an incompressible fluid.)"
+    },
+    {
+        "term": "Archimedes Principle",
+        "meaning": "A principle stating that the upward buoyant force exerted on a body submerged in a fluid is equal to the weight of the fluid displaced by the body. <br> \\( F_b = \\rho g V \\))"
+    },
+    {
+        "term": "Flow Rate",
+        "meaning": "The volume of fluid that passes a given point per unit time. <br> \\( Q = A v \\))"
+    },
+    {
+        "term": "Bernoulli’s Principle",
+        "meaning": "A statement of energy conservation for a flowing fluid, stating that the sum of pressure energy, kinetic energy, and potential energy per unit volume remains constant along a streamline. <br> \\( P + \\frac{1}{2} \\rho v^2 + \\rho g h = \\text{constant} \\))"
+    } 
 ]
+
 
 
