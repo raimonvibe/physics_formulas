@@ -230,6 +230,22 @@
     {
         "term": "Sterkte van het Zwaartekrachtveld",
         "meaning": "De zwaartekracht per eenheid massa op een bepaalde afstand van een planeet. <br> \\( g = \\frac{GM}{r^2} \\)"
+    },
+    {
+        "term": "Principe van Pascal",
+        "meaning": "Een principe dat stelt dat een drukverandering die wordt uitgeoefend op een ingesloten vloeistof, onverminderd wordt doorgegeven door de hele vloeistof. <br> \\( P_1 = P_2 \\) in een onsamendrukbare vloeistof."
+    },
+    {
+        "term": "Principe van Archimedes",
+        "meaning": "Een principe dat stelt dat de opwaartse drijfkracht die wordt uitgeoefend op een lichaam dat in een vloeistof is ondergedompeld, gelijk is aan het gewicht van de verplaatste vloeistof. <br> \\( F_b = \\rho g V \\)"
+    },
+    {
+        "term": "Volumestroom (Flow Rate)",
+        "meaning": "Het volume vloeistof dat per tijdseenheid een bepaald punt passeert. <br> \\( Q = A v \\)"
+    },
+    {
+        "term": "Principe van Bernoulli",
+        "meaning": "Een wet van behoud van energie voor een stromende vloeistof, die stelt dat de som van drukenergie, kinetische energie en potentiële energie per volume-eenheid constant blijft langs een stroomlijn. <br> \\( P + \\frac{1}{2} \\rho v^2 + \\rho g h = \\text{constant} \\)"
     }
 
 ]
