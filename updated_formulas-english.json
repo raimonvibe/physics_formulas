@@ -231,6 +231,7 @@
         "term": "Gravitational Field Strength",
         "meaning": "The gravitational force per unit mass at a distance from a planet. <br> \\( g = \\frac{GM}{r^2} \\)"
     },
+    {
         "term": "Pascal’s Principle",
         "meaning": "A principle stating that a change in pressure applied to an enclosed fluid is transmitted undiminished throughout the fluid. <br> \\( P_1 = P_2 \\) in an incompressible fluid.)"
     },
