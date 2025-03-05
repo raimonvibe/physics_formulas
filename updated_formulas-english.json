@@ -246,7 +246,35 @@
     {
         "term": "Bernoulli’s Principle",
         "meaning": "A statement of energy conservation for a flowing fluid, stating that the sum of pressure energy, kinetic energy, and potential energy per unit volume remains constant along a streamline. <br> \\( P + \\frac{1}{2} \\rho v^2 + \\rho g h = \\text{constant} \\))"
-    } 
+    },
+    {
+        "term": "Introduction to Thermal Physics",
+        "meaning": "Thermal physics studies heat, temperature, and energy transfer. It connects macroscopic thermodynamics with microscopic statistical mechanics."
+    },
+    {
+        "term": "Heat Transfer and Temperature Change",
+        "meaning": "Heat transfer is the process of thermal energy moving due to a temperature difference. The heat required to change temperature is: <br> \\( Q = mc\\Delta T \\)"
+    },
+    {
+        "term": "Phase Changes",
+        "meaning": "Phase changes occur when a substance transitions between solid, liquid, and gas states without changing temperature. The energy required is: <br> \\( Q = mL \\) where \\( L \\) is the latent heat."
+    },
+    {
+        "term": "Thermal Expansion",
+        "meaning": "Materials expand when heated due to increased molecular motion. The linear expansion formula is: <br> \\( \\Delta L = \\alpha L_0 \\Delta T \\)"
+    },
+    {
+        "term": "Mechanisms of Heat Transfer",
+        "meaning": "Heat can be transferred via conduction, convection, and radiation. <br> Conduction: \\( Q = -k A \\frac{dT}{dx} \\) <br> Convection: \\( Q = hA (T_s - T_{\\infty}) \\) <br> Radiation: \\( Q = \\sigma \\epsilon A (T^4 - T_{\\infty}^4) \\)"
+    },
+    {
+        "term": "Charle’s Law and Boyle’s Law",
+        "meaning": "Charles' Law: Volume increases with temperature at constant pressure. <br> \\( \\frac{V_1}{T_1} = \\frac{V_2}{T_2} \\) <br> Boyle’s Law: Pressure and volume are inversely related at constant temperature. <br> \\( P_1 V_1 = P_2 V_2 \\)"
+    },
+    {
+        "term": "Ideal Gas Law",
+        "meaning": "Describes the state of an ideal gas: <br> \\( PV = nRT \\), where \\( R = 8.314 \\) J/(mol·K). It relates pressure, volume, and temperature."
+    }
 ]
 
 
