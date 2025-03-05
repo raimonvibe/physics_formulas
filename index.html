@@ -115,8 +115,9 @@
         let showingTerm = true;
 
         async function loadFlashcards() {
-            try {
-                const response = await fetch('updated_formulas-english.json');
+            try {updated_example-dutch
+                //const response = await fetch('updated_formulas-english.json');
+                const response = await fetch('updated_example-dutch.json');
                 const data = await response.json();
                 flashcards = data;
                 console.log('Loaded flashcards:', flashcards);
