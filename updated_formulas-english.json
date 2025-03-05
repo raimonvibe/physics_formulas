@@ -265,7 +265,7 @@
     },
     {
         "term": "Mechanisms of Heat Transfer",
-        "meaning": "Heat can be transferred via conduction, convection, and radiation. <br> Conduction: \\( Q = -k A \\frac{dT}{dx} \\) <br> Convection: \\( Q = hA (T_s - T_{\\infty}) \\) <br> Radiation: \\( Q = \\sigma \\epsilon A (T^4 - T_{\\infty}^4) \\)"
+        "meaning": "Heat can be transferred via conduction, convection, and radiation. <br> <br> Conduction: <br> \\( Q = -k A \\frac{dT}{dx} \\) <br> <br> Convection: <br> \\( Q = hA (T_s - T_{\\infty}) \\) <br> <br> Radiation: <br> \\( Q = \\sigma \\epsilon A (T^4 - T_{\\infty}^4) \\)"
     },
     {
         "term": "Charle’s Law and Boyle’s Law",
