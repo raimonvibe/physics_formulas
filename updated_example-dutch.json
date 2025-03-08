@@ -274,6 +274,10 @@
     {
         "term": "Ideale Gaswet",
         "meaning": "Beschrijft de toestand van een ideaal gas: <br> \\( PV = nRT \\), waarbij \\( R = 8.314 \\) J/(mol·K). Het legt de relatie tussen druk, volume en temperatuur vast."
+    },
+    {
+        "term": "De Kinetische Theorie van Gassen",
+        "meaning": "De kinetische gastheorie beschrijft gassen als een verzameling van deeltjes die willekeurig bewegen. De gemiddelde kinetische energie van een gasdeeltje wordt gegeven door: <br> \\( KE_{\\text{gem}} = \\frac{3}{2} k_B T \\) <br> De gemiddelde snelheid van gasmoleculen wordt berekend met: <br> \\( v_{\\text{rms}} = \\sqrt{\\frac{3 k_B T}{m}} \\)."
     }
 ]
 
