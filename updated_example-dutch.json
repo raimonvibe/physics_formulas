@@ -280,8 +280,8 @@
         "meaning": "De kinetische gastheorie beschrijft gassen als een verzameling van deeltjes die willekeurig bewegen. De gemiddelde kinetische energie van een gasdeeltje wordt gegeven door: <br> \\( KE_{\\text{gem}} = \\frac{3}{2} k_B T \\) <br> De gemiddelde snelheid van gasmoleculen wordt berekend met: <br> \\( v_{\\text{rms}} = \\sqrt{\\frac{3 k_B T}{m}} \\)."
     },
     {
-        "term": "The Kinetic Theory of Gases",
-        "meaning": "The kinetic theory of gases describes gases as a collection of randomly moving particles. The average kinetic energy of a gas molecule is given by: <br> \\( KE_{\\text{avg}} = \\frac{3}{2} k_B T \\) <br> The root-mean-square speed of gas molecules is calculated as: <br> \\( v_{\\text{rms}} = \\sqrt{\\frac{3 k_B T}{m}} \\)."
+        "term": "De Kinetische Theorie van Gassen",
+        "meaning": "De kinetische gastheorie beschrijft gassen als een verzameling van deeltjes die willekeurig bewegen. De gemiddelde kinetische energie van een gasdeeltje wordt gegeven door: <br> \\( KE_{\\text{gem}} = \\frac{3}{2} k_B T \\) <br> De gemiddelde snelheid van gasmoleculen wordt berekend met: <br> \\( v_{\\text{rms}} = \\sqrt{\\frac{3 k_B T}{m}} \\)."
     }
 ]
 
