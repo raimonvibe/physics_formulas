@@ -281,25 +281,26 @@
     },
     {
         "term": "Introduction to Thermodynamics and The Zeroth Law",
-        "meaning": "Thermodynamics studies the principles of heat and energy transfer. The Zeroth Law states that if two systems are in thermal equilibrium with a third system, they are also in equilibrium with each other."
+        "meaning": "The Zeroth Law of Thermodynamics states that if two systems are each in thermal equilibrium with a third system, then they are in thermal equilibrium with each other."
     },
     {
         "term": "First Law of Thermodynamics",
-        "meaning": "The First Law states that energy cannot be created or destroyed, only transferred or converted. Mathematically: <br> \( \Delta U = Q - W \), where \( \Delta U \) is the change in internal energy, \( Q \) is heat added, and \( W \) is work done by the system."
+        "meaning": "The First Law of Thermodynamics is a statement of energy conservation: <br> \\( \\Delta U = Q - W \\) <br> where \\( \\Delta U \\) is the change in internal energy, \\( Q \\) is the heat added to the system, and \\( W \\) is the work done by the system."
     },
     {
         "term": "Thermodynamic Processes",
-        "meaning": "Different types of thermodynamic processes include isothermal (constant temperature), adiabatic (no heat exchange), isobaric (constant pressure), and isochoric (constant volume). Each has unique energy transfer characteristics."
+        "meaning": "Thermodynamic processes describe how a system changes state. Common processes include: <br> <br> Isothermal (constant temperature): <br> \\( PV = \\text{constant} \\) <br> <br> Adiabatic (no heat exchange): <br> \\( PV^\\gamma = \\text{constant} \\) <br> <br> Isochoric (constant volume): <br> \\( W = 0 \\), \\( Q = \\Delta U \\) <br> <br> Isobaric (constant pressure): <br> \\( W = P \\Delta V \\)."
     },
     {
         "term": "Second Law of Thermodynamics",
-        "meaning": "The Second Law states that entropy always increases in an isolated system. Heat naturally flows from hot to cold regions. The efficiency of any heat engine is limited by this principle: <br> \( \eta = 1 - \frac{T_C}{T_H} \), where \( T_C \) and \( T_H \) are the cold and hot reservoir temperatures."
+        "meaning": "The Second Law of Thermodynamics states that entropy always increases for spontaneous processes: <br> \\( \\Delta S \\geq 0 \\). It also introduces the concept of heat engines and the impossibility of 100% efficiency."
     },
     {
         "term": "The Heat Engine and The Carnot Cycle",
-        "meaning": "A heat engine converts thermal energy into work. The Carnot Cycle describes an idealized engine with maximum efficiency, consisting of isothermal and adiabatic expansions and compressions. Its efficiency depends only on the temperatures of the reservoirs."
+        "meaning": "The Carnot Cycle describes the most efficient heat engine cycle possible, consisting of two isothermal and two adiabatic processes. The maximum efficiency is: <br> \\( \\eta = 1 - \\frac{T_C}{T_H} \\) <br> where \\( T_H \\) and \\( T_C \\) are the temperatures of the hot and cold reservoirs."
     }
 ]
+
 
 
 
