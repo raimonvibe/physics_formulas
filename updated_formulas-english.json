@@ -288,8 +288,8 @@
         "meaning": "The First Law of Thermodynamics is a statement of energy conservation: <br> \\( \\Delta U = Q - W \\) <br> where \\( \\Delta U \\) is the change in internal energy, \\( Q \\) is the heat added to the system, and \\( W \\) is the work done by the system."
     },
     {
-        "term": "Thermodynamic Processes",
-        "meaning": "Thermodynamic processes describe how a system changes state. Common processes include: <br> <br> Isothermal (constant temperature): <br> \\( PV = \\text{constant} \\) <br> <br> Adiabatic (no heat exchange): <br> \\( PV^\\gamma = \\text{constant} \\) <br> <br> Isochoric (constant volume): <br> \\( W = 0 \\), \\( Q = \\Delta U \\) <br> <br> Isobaric (constant pressure): <br> \\( W = P \\Delta V \\)."
+        "term": "Thermodynamische processen",
+        "meaning": "Thermodynamische processen beschrijven de veranderingen in druk, volume en temperatuur in een systeem. Belangrijke processen zijn: <br> <br> Isothermisch (constante temperatuur): <br> \\( PV = \\text{constant} \\) <br> <br> Adiabatisch (geen warmte-uitwisseling): <br> \\( PV^\\gamma = \\text{constant} \\) <br> <br> Isobaar (constante druk): <br> \\( \\Delta U = Q - W \\) <br> <br> Isochore (constant volume): <br> \\( Q = \\Delta U \\)."
     },
     {
         "term": "Second Law of Thermodynamics",
