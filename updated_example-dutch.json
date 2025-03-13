@@ -293,7 +293,7 @@
     },
     {
         "term": "Thermodynamische processen",
-        "meaning": "Thermodynamische processen beschrijven de veranderingen in druk, volume en temperatuur in een systeem. Belangrijke processen zijn: <br> Isothermisch: \\( PV = \\text{constant} \\) <br> Adiabatisch: \\( PV^\\gamma = \\text{constant} \\) <br> Isobaar: \\( \\Delta U = Q - W \\) <br> Isochore: \\( Q = \\Delta U \\)."
+        "meaning": "Thermodynamische processen beschrijven de veranderingen in druk, volume en temperatuur in een systeem. Belangrijke processen zijn: <br> <br> Isothermisch (constante temperatuur): <br> \\( PV = \\text{constant} \\) <br> <br> Adiabatisch (geen warmte-uitwisseling): <br> \\( PV^\\gamma = \\text{constant} \\) <br> <br> Isobaar (constante druk): <br> \\( \\Delta U = Q - W \\) <br> <br> Isochore (constant volume): <br> \\( Q = \\Delta U \\)."
     },
     {
         "term": "Tweede wet van de thermodynamica",
