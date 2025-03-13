@@ -278,8 +278,29 @@
     {
         "term": "The Kinetic Theory of Gases",
         "meaning": "The kinetic theory of gases describes gases as a collection of randomly moving particles. The average kinetic energy of a gas molecule is given by: <br> \\( KE_{\\text{avg}} = \\frac{3}{2} k_B T \\) <br> The root-mean-square speed of gas molecules is calculated as: <br> \\( v_{\\text{rms}} = \\sqrt{\\frac{3 k_B T}{m}} \\)."
+    },
+    {
+        "term": "Introduction to Thermodynamics and The Zeroth Law",
+        "meaning": "Thermodynamics studies the principles of heat and energy transfer. The Zeroth Law states that if two systems are in thermal equilibrium with a third system, they are also in equilibrium with each other."
+    },
+    {
+        "term": "First Law of Thermodynamics",
+        "meaning": "The First Law states that energy cannot be created or destroyed, only transferred or converted. Mathematically: <br> \( \Delta U = Q - W \), where \( \Delta U \) is the change in internal energy, \( Q \) is heat added, and \( W \) is work done by the system."
+    },
+    {
+        "term": "Thermodynamic Processes",
+        "meaning": "Different types of thermodynamic processes include isothermal (constant temperature), adiabatic (no heat exchange), isobaric (constant pressure), and isochoric (constant volume). Each has unique energy transfer characteristics."
+    },
+    {
+        "term": "Second Law of Thermodynamics",
+        "meaning": "The Second Law states that entropy always increases in an isolated system. Heat naturally flows from hot to cold regions. The efficiency of any heat engine is limited by this principle: <br> \( \eta = 1 - \frac{T_C}{T_H} \), where \( T_C \) and \( T_H \) are the cold and hot reservoir temperatures."
+    },
+    {
+        "term": "The Heat Engine and The Carnot Cycle",
+        "meaning": "A heat engine converts thermal energy into work. The Carnot Cycle describes an idealized engine with maximum efficiency, consisting of isothermal and adiabatic expansions and compressions. Its efficiency depends only on the temperatures of the reservoirs."
     }
 ]
+
 
 
 
