@@ -285,25 +285,26 @@
     },
     {
         "term": "Inleiding tot thermodynamica en de nulde wet",
-        "meaning": "De nulde wet van de thermodynamica stelt dat als twee systemen in thermisch evenwicht zijn met een derde systeem, ze ook onderling in thermisch evenwicht zijn. Dit vormt de basis van temperatuurmeting."
+        "meaning": "De nulde wet van de thermodynamica stelt dat als twee systemen in thermisch evenwicht zijn met een derde systeem, ze ook in evenwicht zijn met elkaar. Dit vormt de basis voor temperatuurmeting."
     },
     {
         "term": "Eerste wet van de thermodynamica",
-        "meaning": "De eerste wet stelt dat energie niet kan worden gecreëerd of vernietigd, alleen omgezet. De verandering in interne energie van een systeem is gelijk aan de toegevoegde warmte minus het verrichte werk: <br> \\( \\Delta U = Q - W \\)."
+        "meaning": "De eerste wet van de thermodynamica is een uitdrukking van de wet van behoud van energie. De verandering in interne energie van een systeem is: <br> \\( \\Delta U = Q - W \\), waarbij \\( Q \\) de toegevoegde warmte is en \\( W \\) het door het systeem verrichte werk."
     },
     {
         "term": "Thermodynamische processen",
-        "meaning": "Thermodynamische processen beschrijven hoe systemen energie opnemen of afgeven. Voorbeelden zijn isotherme, adiabatische, isobare en isochoor processen, elk met unieke eigenschappen en vergelijkingen."
+        "meaning": "Thermodynamische processen beschrijven de veranderingen in druk, volume en temperatuur in een systeem. Belangrijke processen zijn: <br> Isothermisch: \\( PV = \\text{constant} \\) <br> Adiabatisch: \\( PV^\\gamma = \\text{constant} \\) <br> Isobaar: \\( \\Delta U = Q - W \\) <br> Isochore: \\( Q = \\Delta U \\)."
     },
     {
         "term": "Tweede wet van de thermodynamica",
-        "meaning": "De tweede wet stelt dat warmte niet spontaan van een koud naar een warm object stroomt en introduceert entropie \\( S \\), een maat voor wanorde. Een systeem evolueert naar een toestand met maximale entropie."
+        "meaning": "De tweede wet stelt dat de entropie \\( S \\) in een geïsoleerd systeem nooit afneemt. Warmte stroomt spontaan van een warm naar een koud object, en het rendement van een warmte-engine is altijd kleiner dan 100%."
     },
     {
-        "term": "De warmtemotor en de Carnot-cyclus",
-        "meaning": "Een warmtemotor zet warmte om in arbeid via een cyclus. De Carnot-cyclus is de meest efficiënte theoretische cyclus en wordt gegeven door het rendement: <br> \\( \\eta = 1 - \\frac{T_C}{T_H} \\), waarbij \\( T_C \\) en \\( T_H \\) de temperaturen van de koude en warme reservoirs zijn."
+        "term": "De warmtemachine en de Carnot-cyclus",
+        "meaning": "Een warmtemachine zet warmte om in arbeid. De Carnot-cyclus is een ideale cyclus met maximaal rendement, gegeven door: <br> \\( \\eta = 1 - \\frac{T_C}{T_H} \\), waarbij \\( T_C \\) de koudste temperatuur is en \\( T_H \\) de warmste temperatuur."
     }
 ]
+
 
 
 
