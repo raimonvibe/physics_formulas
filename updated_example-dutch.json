@@ -282,8 +282,29 @@
     {
         "term": "De Kinetische Theorie van Gassen",
         "meaning": "De kinetische gastheorie beschrijft gassen als een verzameling van deeltjes die willekeurig bewegen. De gemiddelde kinetische energie van een gasdeeltje wordt gegeven door: <br> \\( KE_{\\text{gem}} = \\frac{3}{2} k_B T \\) <br> De gemiddelde snelheid van gasmoleculen wordt berekend met: <br> \\( v_{\\text{rms}} = \\sqrt{\\frac{3 k_B T}{m}} \\)."
+    },
+    {
+        "term": "Inleiding tot thermodynamica en de nulde wet",
+        "meaning": "De nulde wet van de thermodynamica stelt dat als twee systemen in thermisch evenwicht zijn met een derde systeem, ze ook onderling in thermisch evenwicht zijn. Dit vormt de basis van temperatuurmeting."
+    },
+    {
+        "term": "Eerste wet van de thermodynamica",
+        "meaning": "De eerste wet stelt dat energie niet kan worden gecreëerd of vernietigd, alleen omgezet. De verandering in interne energie van een systeem is gelijk aan de toegevoegde warmte minus het verrichte werk: <br> \\( \\Delta U = Q - W \\)."
+    },
+    {
+        "term": "Thermodynamische processen",
+        "meaning": "Thermodynamische processen beschrijven hoe systemen energie opnemen of afgeven. Voorbeelden zijn isotherme, adiabatische, isobare en isochoor processen, elk met unieke eigenschappen en vergelijkingen."
+    },
+    {
+        "term": "Tweede wet van de thermodynamica",
+        "meaning": "De tweede wet stelt dat warmte niet spontaan van een koud naar een warm object stroomt en introduceert entropie \\( S \\), een maat voor wanorde. Een systeem evolueert naar een toestand met maximale entropie."
+    },
+    {
+        "term": "De warmtemotor en de Carnot-cyclus",
+        "meaning": "Een warmtemotor zet warmte om in arbeid via een cyclus. De Carnot-cyclus is de meest efficiënte theoretische cyclus en wordt gegeven door het rendement: <br> \\( \\eta = 1 - \\frac{T_C}{T_H} \\), waarbij \\( T_C \\) en \\( T_H \\) de temperaturen van de koude en warme reservoirs zijn."
     }
 ]
+
 
 
 
