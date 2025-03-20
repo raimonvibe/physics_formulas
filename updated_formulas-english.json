@@ -300,10 +300,6 @@
         "meaning": "The Carnot Cycle describes the most efficient heat engine cycle possible, consisting of two isothermal and two adiabatic processes. The maximum efficiency is: <br> \\( \\eta = 1 - \\frac{T_C}{T_H} \\) <br> where \\( T_H \\) and \\( T_C \\) are the temperatures of the hot and cold reservoirs."
     },
     {
-        "term": "Introduction to Oscillating Motion",
-        "meaning": "Covers the basics of oscillatory motion, including simple harmonic motion and restoring forces."
-    },
-    {
         "term": "Writing The Equation For a Sinusoidal Wave",
         "meaning": "Derives the general equation for a sinusoidal wave, explaining amplitude, frequency, and phase shift. <br> \\( y(x,t) = A \\sin(kx - \\omega t + \\phi) \\)"
     },
