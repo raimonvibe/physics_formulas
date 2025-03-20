@@ -304,10 +304,6 @@
         "meaning": "Een warmtemachine zet warmte om in arbeid. De Carnot-cyclus is een ideale cyclus met maximaal rendement, gegeven door: <br> \\( \\eta = 1 - \\frac{T_C}{T_H} \\), waarbij \\( T_C \\) de koudste temperatuur is en \\( T_H \\) de warmste temperatuur."
     },
     {
-        "term": "Inleiding tot oscillerende beweging",
-        "meaning": "Behandelt de basisprincipes van oscillerende beweging, inclusief harmonische trillingen en de herstellende kracht."
-    },
-    {
         "term": "Het opstellen van de vergelijking voor een sinusvormige golf",
         "meaning": "Leidt de algemene vergelijking voor een sinusvormige golf af en legt uit hoe amplitude, frequentie en faseverschuiving samenwerken. <br> \\( y(x,t) = A \\sin(kx - \\omega t + \\phi) \\)"
     },
