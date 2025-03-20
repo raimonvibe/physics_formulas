@@ -302,8 +302,53 @@
     {
         "term": "De warmtemachine en de Carnot-cyclus",
         "meaning": "Een warmtemachine zet warmte om in arbeid. De Carnot-cyclus is een ideale cyclus met maximaal rendement, gegeven door: <br> \\( \\eta = 1 - \\frac{T_C}{T_H} \\), waarbij \\( T_C \\) de koudste temperatuur is en \\( T_H \\) de warmste temperatuur."
+    },
+    {
+        "term": "Inleiding tot oscillerende beweging",
+        "meaning": "Behandelt de basisprincipes van oscillerende beweging, inclusief harmonische trillingen en de herstellende kracht."
+    },
+    {
+        "term": "Het opstellen van de vergelijking voor een sinusvormige golf",
+        "meaning": "Leidt de algemene vergelijking voor een sinusvormige golf af en legt uit hoe amplitude, frequentie en faseverschuiving samenwerken. <br> \\( y(x,t) = A \\sin(kx - \\omega t + \\phi) \\)"
+    },
+    {
+        "term": "Versnellingsvergelijking van een sinusgolf en bewijs van de periodeformule (Calculus)",
+        "meaning": "Gebruikt calculus om de versnellingsvergelijking van een sinusgolf af te leiden en bewijst de formule voor de periode. <br> \\( a = -\\omega^2 y \\)"
+    },
+    {
+        "term": "Gedempte trillingen",
+        "meaning": "Legt uit hoe demping trillingen beïnvloedt en welke rol energieverlies speelt in trillingsbewegingen. <br> De vergelijking voor gedempte beweging: <br> \\( m \\ddot{x} + b \\dot{x} + kx = 0 \\)"
+    },
+    {
+        "term": "Transversale golven",
+        "meaning": "Beschrijft transversale golven, hun eigenschappen en voorbeelden zoals lichtgolven en watergolven. <br> Golfsnelheid: <br> \\( v = f \\lambda \\)"
+    },
+    {
+        "term": "Longitudinale golven: geluid",
+        "meaning": "Introduceert longitudinale golven en hun rol in de voortplanting van geluid. <br> Geluidsgolfvergelijking: <br> \\( P = P_0 \\cos(kx - \\omega t) \\)"
+    },
+    {
+        "term": "Superpositie, destructieve en constructieve interferentie",
+        "meaning": "Legt uit hoe golven interfereren via superpositie, wat leidt tot constructieve en destructieve interferentie. <br> Het principe van superpositie: <br> \\( y = y_1 + y_2 \\)"
+    },
+    {
+        "term": "Staande golven",
+        "meaning": "Behandelt de vorming van staande golven en het belang van knopen en buiken. <br> Vergelijking voor een staande golf: <br> \\( y(x,t) = 2A \\sin(kx) \\cos(\\omega t) \\)"
+    },
+    {
+        "term": "Reflectie van golven op een snaar",
+        "meaning": "Onderzoekt hoe golven reflecteren op vaste en vrije uiteinden van een snaar. <br> Reflectie bij een vast uiteinde: <br> \\( y_r = -y_i \\) <br> Reflectie bij een vrij uiteinde: <br> \\( y_r = y_i \\)"
+    },
+    {
+        "term": "Resonantie",
+        "meaning": "Bespreekt resonantie en hoe het golfbewegingen versterkt bij natuurlijke frequenties. <br> Resonantiefrequentie: <br> \\( f_n = \\frac{n v}{2L} \\)"
+    },
+    {
+        "term": "Dopplereffect",
+        "meaning": "Legt uit hoe de frequentie van een golf verandert voor een waarnemer die zich naar de golfbron toe of ervan af beweegt. <br> Dopplerformule: <br> \\( f' = f \\frac{v \\pm v_o}{v \\mp v_s} \\)"
     }
 ]
+
 
 
 
