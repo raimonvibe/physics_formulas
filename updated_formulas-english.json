@@ -298,8 +298,53 @@
     {
         "term": "The Heat Engine and The Carnot Cycle",
         "meaning": "The Carnot Cycle describes the most efficient heat engine cycle possible, consisting of two isothermal and two adiabatic processes. The maximum efficiency is: <br> \\( \\eta = 1 - \\frac{T_C}{T_H} \\) <br> where \\( T_H \\) and \\( T_C \\) are the temperatures of the hot and cold reservoirs."
+    },
+    {
+        "term": "Introduction to Oscillating Motion",
+        "meaning": "Covers the basics of oscillatory motion, including simple harmonic motion and restoring forces."
+    },
+    {
+        "term": "Writing The Equation For a Sinusoidal Wave",
+        "meaning": "Derives the general equation for a sinusoidal wave, explaining amplitude, frequency, and phase shift. <br> \\( y(x,t) = A \\sin(kx - \\omega t + \\phi) \\)"
+    },
+    {
+        "term": "Acceleration Equation of a Sine Wave and Proof of The Period Formula (Calculus)",
+        "meaning": "Uses calculus to derive the acceleration equation for a sine wave and proves the formula for the period. <br> \\( a = -\\omega^2 y \\)"
+    },
+    {
+        "term": "Damped Oscillations",
+        "meaning": "Explains how damping affects oscillations and the role of energy dissipation in oscillatory motion. <br> The equation for damped motion: <br> \\( m \\ddot{x} + b \\dot{x} + kx = 0 \\)"
+    },
+    {
+        "term": "Transverse Waves",
+        "meaning": "Describes transverse waves, their properties, and examples such as light waves and water waves. <br> Wave speed: <br> \\( v = f \\lambda \\)"
+    },
+    {
+        "term": "Longitudinal Waves: Sound",
+        "meaning": "Introduces longitudinal waves and their role in sound propagation. <br> Sound wave equation: <br> \\( P = P_0 \\cos(kx - \\omega t) \\)"
+    },
+    {
+        "term": "Superposition, Destructive and Constructive Interference",
+        "meaning": "Explains how waves interact through superposition, leading to constructive and destructive interference. <br> The principle of superposition: <br> \\( y = y_1 + y_2 \\)"
+    },
+    {
+        "term": "Standing Waves",
+        "meaning": "Covers the formation of standing waves and the significance of nodes and antinodes. <br> Standing wave equation: <br> \\( y(x,t) = 2A \\sin(kx) \\cos(\\omega t) \\)"
+    },
+    {
+        "term": "Reflection Of Waves On a String",
+        "meaning": "Explores how waves reflect from fixed and free ends of a string. <br> Reflection at a fixed end: <br> \\( y_r = -y_i \\) <br> Reflection at a free end: <br> \\( y_r = y_i \\)"
+    },
+    {
+        "term": "Resonance",
+        "meaning": "Discusses resonance and how it amplifies wave motion at natural frequencies. <br> Resonant frequency: <br> \\( f_n = \\frac{n v}{2L} \\)"
+    },
+    {
+        "term": "Doppler Effect",
+        "meaning": "Explains the change in frequency of a wave relative to an observer moving towards or away from the wave source. <br> Doppler formula: <br> \\( f' = f \\frac{v \\pm v_o}{v \\mp v_s} \\)"
     }
 ]
+
 
 
 
