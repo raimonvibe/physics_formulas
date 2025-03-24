@@ -106,6 +106,7 @@
 
     <div class="buttons">
         <button id="known-button" class="known">Known</button>
+        <button id="previous-button" class="unknown">Previous</button>
         <button id="unknown-button" class="unknown">Next</button>
     </div>
 
@@ -184,7 +185,18 @@
             showingTerm = true;
             renderCurrentCard();
         }
-
+        function handlePrevious() {
+            console.log('Moving to previous card');
+            if (flashcards.length === 0) return;
+        
+            currentCardIndex--;
+            if (currentCardIndex < 0) {
+                currentCardIndex = flashcards.length - 1;
+            }
+        
+            showingTerm = true;
+            renderCurrentCard();
+        }
         function handleKnown() {
             console.log('Marking card as known');
             if (flashcards.length === 0) return;
