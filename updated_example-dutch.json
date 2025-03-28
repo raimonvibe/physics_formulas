@@ -342,6 +342,70 @@
     {
         "term": "Dopplereffect",
         "meaning": "Legt uit hoe de frequentie van een golf verandert voor een waarnemer die zich naar de golfbron toe of ervan af beweegt. <br> Dopplerformule: <br> \\( f' = f \\frac{v \\pm v_o}{v \\mp v_s} \\)"
+    },
+    {
+        "term": "Elektrische lading en behoud van lading",
+        "meaning": "Introduceert elektrische lading en het principe dat lading behouden blijft in geïsoleerde systemen. <br> Behoud van lading: <br> \\( q_{totaal\\,initieel} = q_{totaal\\,eind} \\)"
+    },
+    {
+        "term": "Wet van Coulomb",
+        "meaning": "Beschrijft de elektrostatische kracht tussen twee puntladingen. <br> \\( F = k_e \\frac{|q_1 q_2|}{r^2} \\), waarbij \\( k_e \\approx 8{,}99 \\times 10^9 \\; \\text{Nm}^2/\\text{C}^2 \\)"
+    },
+    {
+        "term": "Superpositie van ladingen",
+        "meaning": "Legt uit hoe je de netto kracht op een lading bepaalt door de afzonderlijke krachten vectorieel op te tellen. <br> \\( \\vec{F}_{net} = \\sum \\vec{F}_i \\)"
+    },
+    {
+        "term": "Het elektrisch veld",
+        "meaning": "Definieert het elektrisch veld als de kracht per eenheidslading. <br> \\( \\vec{E} = \\frac{\\vec{F}}{q} \\) <br> Voor een puntlading: \\( \\vec{E} = k_e \\frac{q}{r^2} \\hat{r} \\)"
+    },
+    {
+        "term": "Elektrische potentiële energie",
+        "meaning": "Beschrijft de potentiële energie tussen twee ladingen door elektrostatische interactie. <br> \\( U = k_e \\frac{q_1 q_2}{r} \\)"
+    },
+    {
+        "term": "Elektrisch potentiaal",
+        "meaning": "Definieert elektrisch potentiaal als potentiële energie per eenheidslading. <br> \\( V = \\frac{U}{q} = k_e \\frac{q}{r} \\)"
+    },
+    {
+        "term": "Arbeid verricht op een lading vanaf oneindige afstand (Calculus)",
+        "meaning": "Gebruikt calculus om de arbeid te berekenen die nodig is om een lading van oneindig ver naar een bepaald punt te verplaatsen. <br> \\( W = - \\int_{\\infty}^{r} \\vec{F} \\cdot d\\vec{r} \\)"
+    },
+    {
+        "term": "Geleiders en isolatoren",
+        "meaning": "Bespreekt materialen die elektrische lading goed geleiden of juist tegenhouden. <br> In geleiders: ladingen bewegen vrij. <br> In isolatoren: ladingen zijn gebonden en onbeweeglijk."
+    },
+    {
+        "term": "Elektrische stroom",
+        "meaning": "Definieert elektrische stroom als de snelheid waarmee lading zich verplaatst. <br> \\( I = \\frac{\\Delta Q}{\\Delta t} \\)"
+    },
+    {
+        "term": "Soortelijke weerstand, weerstand en de wet van Ohm",
+        "meaning": "Bespreekt hoe materialen elektrische stroom weerstaan en introduceert de wet van Ohm. <br> Wet van Ohm: <br> \\( V = IR \\) <br> Weerstand: <br> \\( R = \\rho \\frac{L}{A} \\), waarbij \\( \\rho \\) de soortelijke weerstand is."
+    },
+    {
+        "term": "Elektrische schakelingen",
+        "meaning": "Introduceert serieschakelingen en parallelschakelingen, stroom, spanning en verdeling van weerstand. <br> Serie: \\( R_{eq} = R_1 + R_2 + ... \\) <br> Parallel: \\( \\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} + ... \\)"
+    },
+    {
+        "term": "Elektrisch vermogen en warmte",
+        "meaning": "Legt uit hoe elektrische energie wordt omgezet in warmte en vermogen in schakelingen. <br> Vermogensformules: <br> \\( P = IV = I^2R = \\frac{V^2}{R} \\)"
+    },
+    {
+        "term": "Elektromotorische kracht en interne weerstand",
+        "meaning": "Behandelt spanningsbronnen, EMK (elektromotorische kracht), en energieverliezen door interne weerstand. <br> \\( V = \\mathcal{E} - Ir \\), waarbij \\( \\mathcal{E} \\) de EMK is en \\( r \\) de interne weerstand."
+    },
+    {
+        "term": "Regels van Kirchhoff",
+        "meaning": "Introduceert de knooppunt- en lusregels van Kirchhoff voor het analyseren van elektrische schakelingen. <br> Knooppuntregel: \\( \\sum I_{in} = \\sum I_{uit} \\) <br> Lusregel: \\( \\sum V = 0 \\)"
+    },
+    {
+        "term": "Condensatoren",
+        "meaning": "Legt uit hoe condensatoren elektrische lading en energie opslaan. <br> \\( C = \\frac{Q}{V} \\) <br> Opgeslagen energie: \\( U = \\frac{1}{2}CV^2 \\)"
+    },
+    {
+        "term": "Wisselstroom versus gelijkstroom",
+        "meaning": "Vergelijkt AC (wisselstroom) en DC (gelijkstroom). <br> DC: constante richting en grootte. <br> AC: verandert periodiek van richting. <br> AC-spanning: \\( V(t) = V_0 \\sin(\\omega t) \\)"
     }
 ]
 
