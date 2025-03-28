@@ -338,8 +338,45 @@
     {
         "term": "Doppler Effect",
         "meaning": "Explains the change in frequency of a wave relative to an observer moving towards or away from the wave source. <br> Doppler formula: <br> \\( f' = f \\frac{v \\pm v_o}{v \\mp v_s} \\)"
+    },
+    {
+        "term": "Electric Charge and Conservation of Charge",
+        "meaning": "Introduces electric charge and the principle that charge is conserved in isolated systems. <br> Conservation of charge: <br> \\( q_{total\\,initial} = q_{total\\,final} \\)"
+    },
+    {
+        "term": "Coulomb's Law",
+        "meaning": "Describes the electrostatic force between two point charges. <br> \\( F = k_e \\frac{|q_1 q_2|}{r^2} \\), where \\( k_e \\approx 8.99 \\times 10^9 \\; \\text{Nm}^2/\\text{C}^2 \\)"
+    },
+    {
+        "term": "Superposition of Charges",
+        "meaning": "Explains how to find the net force on a charge by summing vectorially the individual forces from all other charges. <br> \\( \\vec{F}_{net} = \\sum \\vec{F}_i \\)"
+    },
+    {
+        "term": "The Electric Field",
+        "meaning": "Defines the electric field as the force per unit charge. <br> \\( \\vec{E} = \\frac{\\vec{F}}{q} \\) <br> For a point charge: \\( \\vec{E} = k_e \\frac{q}{r^2} \\hat{r} \\)"
+    },
+    {
+        "term": "Electric Potential Energy",
+        "meaning": "Describes the potential energy between two charges due to electrostatic interaction. <br> \\( U = k_e \\frac{q_1 q_2}{r} \\)"
+    },
+    {
+        "term": "Electric Potential",
+        "meaning": "Defines electric potential as potential energy per unit charge. <br> \\( V = \\frac{U}{q} = k_e \\frac{q}{r} \\)"
+    },
+    {
+        "term": "Work Done On a Charge at Infinite Distance (Calculus)",
+        "meaning": "Uses calculus to compute work required to move a charge from infinity to a point in space. <br> \\( W = - \\int_{\\infty}^{r} \\vec{F} \\cdot d\\vec{r} \\)"
+    },
+    {
+        "term": "Conductors and Insulators",
+        "meaning": "Discusses materials that allow or resist the movement of electric charge. <br> In conductors: charges move freely. <br> In insulators: charges are bound and immobile."
+    },
+    {
+        "term": "Electric Current",
+        "meaning": "Defines electric current as the rate of charge flow. <br> \\( I = \\frac{\\Delta Q}{\\Delta t} \\)"
     }
 ]
+
 
 
 
