@@ -396,10 +396,6 @@
         "meaning": "Introduces Kirchhoff’s junction and loop rules for analyzing circuits. <br> Junction Rule: \\( \\sum I_{in} = \\sum I_{out} \\) <br> Loop Rule: \\( \\sum V = 0 \\)"
     },
     {
-        "term": "Kirchhoff's Rules (Example)",
-        "meaning": "Demonstrates application of Kirchhoff’s rules to solve multi-loop circuit problems step-by-step."
-    },
-    {
         "term": "Capacitors",
         "meaning": "Explains how capacitors store electric charge and energy. <br> \\( C = \\frac{Q}{V} \\) <br> Energy stored: \\( U = \\frac{1}{2}CV^2 \\)"
     },
