@@ -406,6 +406,30 @@
     {
         "term": "Wisselstroom versus gelijkstroom",
         "meaning": "Vergelijkt AC (wisselstroom) en DC (gelijkstroom). <br> DC: constante richting en grootte. <br> AC: verandert periodiek van richting. <br> AC-spanning: \\( V(t) = V_0 \\sin(\\omega t) \\)"
+    },
+    {
+        "term": "Magnetische kracht op een bewegende lading",
+        "meaning": "Beschrijft de kracht die een lading ondervindt wanneer deze door een magnetisch veld beweegt. <br> \\( \\vec{F} = q\\vec{v} \\times \\vec{B} \\)"
+    },
+    {
+        "term": "Cirkelvormige beweging van bewegende ladingen",
+        "meaning": "Legt uit hoe een geladen deeltje een cirkelvormige baan volgt onder invloed van een magnetisch veld. <br> \\( r = \\frac{mv}{qB} \\)"
+    },
+    {
+        "term": "Magnetische kracht op een stroomgeleidende geleider",
+        "meaning": "Geeft details over de kracht op een draad die stroom geleidt in een magnetisch veld. <br> \\( \\vec{F} = I\\vec{L} \\times \\vec{B} \\)"
+    },
+    {
+        "term": "Elektromagnetische inductie: motionele EMK",
+        "meaning": "Introduceert motionele elektromotorische kracht (EMK) opgewekt door een geleider die beweegt in een magnetisch veld. <br> \\( \\mathcal{E} = B\\ell v \\sin(\\theta) \\)"
+    },
+    {
+        "term": "Wet van Faraday",
+        "meaning": "Stelt dat de geïnduceerde EMK evenredig is aan de snelheid van verandering van de magnetische flux. <br> \\( \\mathcal{E} = -\\frac{d\\Phi_B}{dt} \\)"
+    },
+    {
+        "term": "Wet van Lenz",
+        "meaning": "Geeft aan dat de richting van de geïnduceerde stroom de verandering in flux tegenwerkt. <br> \\( \\mathcal{E} = -\\frac{d\\Phi_B}{dt} \\), het minteken toont de tegenwerking."
     }
 ]
 
