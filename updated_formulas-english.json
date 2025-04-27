@@ -426,6 +426,54 @@
     {
         "term": "Lenz’s Law",
         "meaning": "Indicates the direction of induced current opposes the change in flux. <br> \\( \\mathcal{E} = -\\frac{d\\Phi_B}{dt} \\), sign shows opposition."
+    },
+    {
+        "term": "Intro to Optics and Light",
+        "meaning": "Introduces the basic properties and behavior of light in optics. <br> \\( c = \\lambda f \\)"
+    },
+    {
+        "term": "Interference and Diffraction",
+        "meaning": "Describes how waves overlap (interfere) and bend around obstacles (diffract). <br> \\( \\Delta r = m\\lambda \\)"
+    },
+    {
+        "term": "Huygens’s Principle",
+        "meaning": "States that every point on a wavefront acts as a source of secondary spherical wavelets. <br> \\( \\text{Wavefront} = \\text{Envelope of wavelets} \\)"
+    },
+    {
+        "term": "Young's Double Slit Experiment",
+        "meaning": "Demonstrates the wave nature of light through an interference pattern. <br> \\( d\\sin\\theta = m\\lambda \\)"
+    },
+    {
+        "term": "Polarization",
+        "meaning": "Describes how the vibrations of a wave are restricted to a single plane. <br> \\( I = I_0 \\cos^2\\theta \\)"
+    },
+    {
+        "term": "Law of Reflection",
+        "meaning": "States that the angle of incidence equals the angle of reflection. <br> \\( \\theta_i = \\theta_r \\)"
+    },
+    {
+        "term": "Law of Refraction",
+        "meaning": "Also known as Snell's Law; relates the angles of incidence and refraction to the refractive indices. <br> \\( n_1 \\sin\\theta_1 = n_2 \\sin\\theta_2 \\)"
+    },
+    {
+        "term": "Total Internal Reflection",
+        "meaning": "Occurs when light reflects entirely within a medium at an angle greater than the critical angle. <br> \\( \\theta_c = \\sin^{-1}\\left(\\frac{n_2}{n_1}\\right) \\)"
+    },
+    {
+        "term": "Dispersion",
+        "meaning": "Describes the separation of light into colors by wavelength when passing through a medium. <br> \\( n = \\frac{c}{v} \\)"
+    },
+    {
+        "term": "Flat Mirrors",
+        "meaning": "Explains image formation by flat mirrors where the image is virtual, upright, and the same size. <br> \\( d_o = d_i \\)"
+    },
+    {
+        "term": "Concave and Convex Mirrors",
+        "meaning": "Analyzes image formation by curved mirrors using the mirror equation. <br> \\( \\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i} \\)"
+    },
+    {
+        "term": "Concave and Convex Lenses",
+        "meaning": "Explores image formation with lenses, governed by the lens formula. <br> \\( \\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i} \\)"
     }
 ]
 
