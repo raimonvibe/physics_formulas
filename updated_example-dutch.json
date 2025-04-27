@@ -430,6 +430,54 @@
     {
         "term": "Wet van Lenz",
         "meaning": "Geeft aan dat de richting van de geïnduceerde stroom de verandering in flux tegenwerkt. <br> \\( \\mathcal{E} = -\\frac{d\\Phi_B}{dt} \\), het minteken toont de tegenwerking."
+    },
+    {
+        "term": "Introductie tot Optica en Licht",
+        "meaning": "Introduceert de basiskenmerken en het gedrag van licht in de optica. <br> \\( c = \\lambda f \\)"
+    },
+    {
+        "term": "Interferentie en Diffractie",
+        "meaning": "Beschrijft hoe golven elkaar overlappen (interfereren) en buigen rond obstakels (diffractie). <br> \\( \\Delta r = m\\lambda \\)"
+    },
+    {
+        "term": "Principe van Huygens",
+        "meaning": "Stelt dat elk punt op een golffront een bron wordt van een nieuwe golf, die het volgende golffront vormt."
+    },
+    {
+        "term": "Dubbel-spleetexperiment van Young",
+        "meaning": "Toont de golfachtige aard van licht aan via een interferentiepatroon. <br> \\( d\\sin\\theta = m\\lambda \\)"
+    },
+    {
+        "term": "Polarisatie",
+        "meaning": "Beschrijft hoe de trillingen van een golf worden beperkt tot één vlak. <br> \\( I = I_0 \\cos^2\\theta \\)"
+    },
+    {
+        "term": "Wet van Reflectie",
+        "meaning": "Stelt dat de invalshoek gelijk is aan de reflectiehoek. <br> \\( \\theta_i = \\theta_r \\)"
+    },
+    {
+        "term": "Wet van Breking",
+        "meaning": "Ook bekend als de wet van Snellius; relateert de invalshoek en de brekingshoek aan de brekingsindices. <br> \\( n_1 \\sin\\theta_1 = n_2 \\sin\\theta_2 \\)"
+    },
+    {
+        "term": "Totale Inwendige Reflectie",
+        "meaning": "Vindt plaats wanneer licht volledig binnen een medium wordt gereflecteerd bij een hoek groter dan de kritische hoek. <br> \\( \\theta_c = \\sin^{-1}\\left(\\frac{n_2}{n_1}\\right) \\)"
+    },
+    {
+        "term": "Dispersie",
+        "meaning": "Beschrijft de splitsing van licht in kleuren op basis van golflengte bij doorgang door een medium. <br> \\( n = \\frac{c}{v} \\)"
+    },
+    {
+        "term": "Vlakke Spiegels",
+        "meaning": "Legt uit hoe vlakke spiegels beelden vormen die virtueel, rechtopstaand en even groot zijn. <br> \\( d_o = d_i \\)"
+    },
+    {
+        "term": "Concaaf en Convex Spiegels",
+        "meaning": "Analyseert beeldvorming door gebogen spiegels met behulp van de spiegelformule. <br> \\( \\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i} \\)"
+    },
+    {
+        "term": "Concaaf en Convex Lenzen",
+        "meaning": "Onderzoekt beeldvorming met lenzen, beschreven door de lensformule. <br> \\( \\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i} \\)"
     }
 ]
 
