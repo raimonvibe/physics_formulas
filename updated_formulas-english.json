@@ -437,7 +437,7 @@
     },
     {
         "term": "Huygens’s Principle",
-        "meaning": "Explains that every point on a wavefront is a source of spherical wavelets, and the new wavefront is the tangent to these wavelets. <br> \\( \\text{New Wavefront} = \\text{Envelope of Secondary Wavelets} \\)"
+        "meaning": "States that every point on a wavefront becomes a source of a new wavelet, shaping the next wavefront."
     },
     {
         "term": "Young's Double Slit Experiment",
