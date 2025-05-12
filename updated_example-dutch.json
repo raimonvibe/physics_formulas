@@ -478,6 +478,30 @@
     {
         "term": "Concaaf en Convex Lenzen",
         "meaning": "Onderzoekt beeldvorming met lenzen, beschreven door de lensformule. <br> \\( \\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i} \\)"
+    },
+    {
+        "term": "Michelson-Morley Experiment",
+        "meaning": "Weerlegde de ether-theorie door te tonen dat lichtsnelheid constant is in alle richtingen. <br> \\( c = \\text{constant} \\)"
+    },
+    {
+        "term": "Einstein's Postulates",
+        "meaning": "Basis van speciale relativiteit: natuurkundewetten zijn gelijk in alle inertiaalstelsels. <br> \\( c = \\text{constant} \\)"
+    },
+    {
+        "term": "Time Dilation and Length Contraction",
+        "meaning": "Relativistische effecten waarbij tijd vertraagt en lengte krimpt bij hoge snelheden. <br> \\( t = \\frac{t_0}{\\sqrt{1 - \\frac{v^2}{c^2}}} \\)"
+    },
+    {
+        "term": "Relativistic Velocity Addition",
+        "meaning": "Beschrijft hoe snelheden combineren in relativiteit, nooit boven lichtsnelheid. <br> \\( u' = \\frac{u + v}{1 + \\frac{uv}{c^2}} \\)"
+    },
+    {
+        "term": "Relativistic Energy and Mass-Energy Equivalence",
+        "meaning": "Toont dat massa kan omzetten in energie, een kernconcept van relativiteit. <br> \\( E = mc^2 \\)"
+    },
+    {
+        "term": "Rutherford's Gold Foil Experiment",
+        "meaning": "Onthulde de kern door te laten zien dat alfdeeltjes afbuigen bij goudatomen. <br> \\( \\theta \\propto \\frac{1}{\\sin^4(\\theta/2)} \\)"
     }
 ]
 
