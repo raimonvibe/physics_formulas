@@ -474,6 +474,30 @@
     {
         "term": "Concave and Convex Lenses",
         "meaning": "Explores image formation with lenses, governed by the lens formula. <br> \\( \\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i} \\)"
+    },
+    {
+        "term": "Michelson-Morley Experiment",
+        "meaning": "Disproved the ether theory by showing light speed is constant in all directions. <br> \\( c = \\text{constant} \\)"
+    },
+    {
+        "term": "Einstein's Postulates",
+        "meaning": "Foundation of special relativity: laws of physics are the same in all inertial frames. <br> \\( c = \\text{constant} \\)"
+    },
+    {
+        "term": "Time Dilation and Length Contraction",
+        "meaning": "Relativistic effects where time slows and length shrinks at high speeds. <br> \\( t = \\frac{t_0}{\\sqrt{1 - \\frac{v^2}{c^2}}} \\)"
+    },
+    {
+        "term": "Relativistic Velocity Addition",
+        "meaning": "Describes how velocities combine in relativity, never exceeding light speed. <br> \\( u' = \\frac{u + v}{1 + \\frac{uv}{c^2}} \\)"
+    },
+    {
+        "term": "Relativistic Energy and Mass-Energy Equivalence",
+        "meaning": "Shows mass can convert to energy, a key relativity concept. <br> \\( E = mc^2 \\)"
+    },
+    {
+        "term": "Rutherford's Gold Foil Experiment",
+        "meaning": "Revealed the nucleus by showing alpha particles scatter off gold atoms. <br> \\( \\theta \\propto \\frac{1}{\\sin^4(\\theta/2)} \\)"
     }
 ]
 
