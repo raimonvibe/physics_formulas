@@ -502,9 +502,36 @@
     {
         "term": "Rutherford's Gold Foil Experiment",
         "meaning": "Onthulde de kern door te laten zien dat alfdeeltjes afbuigen bij goudatomen. <br> \\( \\theta \\propto \\frac{1}{\\sin^4(\\theta/2)} \\)"
+    },
+    {
+        "term": "Inleiding tot de Kwantumwereld",
+        "meaning": "Behandelt de overgang van de klassieke naar de kwantumfysica, en benadrukt de noodzaak van nieuwe principes om atomaire verschijnselen te beschrijven. <br> \\( E = hf \\)"
+    },
+    {
+        "term": "Zwartstralingsstraling en Kwantisatie van Energie",
+        "meaning": "Legt uit hoe energie wordt uitgezonden in discrete pakketjes (quanta) om de ultraviolette catastrofe op te lossen. <br> \\( E = nhf \\)"
+    },
+    {
+        "term": "Het Foto-elektrisch Effect",
+        "meaning": "Toont aan dat licht uit fotonen bestaat die elektronen uit een metaal kunnen losmaken. <br> \\( K.E. = hf - \\phi \\)"
+    },
+    {
+        "term": "De Deeltje-Golf Dualiteit",
+        "meaning": "Stelt vast dat deeltjes zoals elektronen zowel golf- als deeltje-eigenschappen vertonen. <br> \\( \\lambda = \\frac{h}{p} \\)"
+    },
+    {
+        "term": "Heisenbergs Onzekerheidsprincipe",
+        "meaning": "Stelt dat bepaalde paren van natuurkundige grootheden niet gelijktijdig met willekeurige precisie gekend kunnen worden. <br> \\( \\Delta x \\Delta p \\geq \\frac{\\hbar}{2} \\)"
+    },
+    {
+        "term": "De Schrödingervergelijking (Basis)",
+        "meaning": "Introduceert de golfvergelijking die kwantumsystemen beschrijft, en hoe golffuncties zich ontwikkelen. <br> \\( \\hat{H} \\psi = E \\psi \\)"
+    },
+    {
+        "term": "Atoomspectra: Waterstofspectrum",
+        "meaning": "Beschrijft het emissiespectrum van waterstof door elektronovergangen tussen energieniveaus. <br> \\( \\frac{1}{\\lambda} = R_H \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right) \\)"
     }
 ]
-
 
 
 
