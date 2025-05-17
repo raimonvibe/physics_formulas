@@ -498,6 +498,34 @@
     {
         "term": "Rutherford's Gold Foil Experiment",
         "meaning": "Revealed the nucleus by showing alpha particles scatter off gold atoms. <br> \\( \\theta \\propto \\frac{1}{\\sin^4(\\theta/2)} \\)"
+    },
+    {
+        "term": "Introduction to The Quantum World",
+        "meaning": "Presents the shift from classical to quantum physics, highlighting the need for new principles to describe atomic phenomena. <br> \\( E = hf \\)"
+    },
+    {
+        "term": "Blackbody Radiation and Quantization of Energy",
+        "meaning": "Explains how energy is emitted in discrete packets (quanta) to resolve the ultraviolet catastrophe. <br> \\( E = nhf \\)"
+    },
+    {
+        "term": "The Photoelectric Effect",
+        "meaning": "Demonstrates that light consists of photons which can eject electrons from a metal. <br> \\( K.E. = hf - \\phi \\)"
+    },
+    {
+        "term": "The Particle-Wave Duality",
+        "meaning": "Establishes that particles like electrons exhibit both wave and particle properties. <br> \\( \\lambda = \\frac{h}{p} \\)"
+    },
+    {
+        "term": "Heisenberg's Uncertainty Principle",
+        "meaning": "States that certain pairs of physical properties cannot be simultaneously known with arbitrary precision. <br> \\( \\Delta x \\Delta p \\geq \\frac{\\hbar}{2} \\)"
+    },
+    {
+        "term": "The Schrödinger Equation (Basics)",
+        "meaning": "Introduces the wave equation governing quantum systems, describing how wavefunctions evolve. <br> \\( \\hat{H} \\psi = E \\psi \\)"
+    },
+    {
+        "term": "Atomic Spectra: Hydrogen Spectrum",
+        "meaning": "Describes the emission spectra of hydrogen due to electron transitions between energy levels. <br> \\( \\frac{1}{\\lambda} = R_H \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right) \\)"
     }
 ]
 
