@@ -530,6 +530,38 @@
     {
         "term": "Atoomspectra: Waterstofspectrum",
         "meaning": "Beschrijft het emissiespectrum van waterstof door elektronovergangen tussen energieniveaus. <br> \\( \\frac{1}{\\lambda} = R_H \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right) \\)"
+    },
+    {
+        "term": "Het Bohr-model van het atoom",
+        "meaning": "Beschrijft gekwantiseerde banen voor elektronen in atomen en verklaart het emissiespectrum van waterstof. <br> \\( E_n = - \\frac{13.6\\,eV}{n^2} \\)"
+    },
+    {
+        "term": "Atoomnummer, neutronengetal en massagetal",
+        "meaning": "Definieert de atomaire structuur met behulp van het atoomnummer (Z), neutronengetal (N) en massagetal (A). <br> \\( A = Z + N \\)"
+    },
+    {
+        "term": "Bindingsenergie",
+        "meaning": "Geeft de energie weer die nodig is om een atoomkern in afzonderlijke protonen en neutronen te splitsen. <br> \\( E_b = \\Delta m \\cdot c^2 \\)"
+    },
+    {
+        "term": "Radioactiviteit en alfastraling",
+        "meaning": "Legt de spontane uitstoot van een alfadeeltje uit, waarbij zowel het massagetal als het atoomnummer afnemen. <br> \\( {}^{A}_{Z}X \\rightarrow {}^{A-4}_{Z-2}Y + \\alpha \\)"
+    },
+    {
+        "term": "Bètaverval",
+        "meaning": "Een neutron verandert in een proton en zendt een elektron en een antineutrino uit. <br> \\( n \\rightarrow p + e^- + \\bar{\\nu}_e \\)"
+    },
+    {
+        "term": "Gammaverval",
+        "meaning": "Een aangeslagen kern zendt energie uit in de vorm van een gammastraal, zonder verandering in atomaire structuur. <br> \\( {}^A_ZX^* \\rightarrow {}^A_ZX + \\gamma \\)"
+    },
+    {
+        "term": "Radioactieve vervalwetten",
+        "meaning": "Beschrijft hoe onstabiele kernen in de tijd vervallen volgens exponentiële wetmatigheden. <br> \\( N(t) = N_0 e^{-\\lambda t} \\)"
+    },
+    {
+        "term": "Kernreacties: Splijting en fusie",
+        "meaning": "Splijting verdeelt zware kernen, terwijl fusie lichte kernen samenvoegt — beide processen geven enorme energie vrij. <br> \\( E = \\Delta m \\cdot c^2 \\)"
     }
 ]
 
