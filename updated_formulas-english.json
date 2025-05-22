@@ -526,6 +526,38 @@
     {
         "term": "Atomic Spectra: Hydrogen Spectrum",
         "meaning": "Describes the emission spectra of hydrogen due to electron transitions between energy levels. <br> \\( \\frac{1}{\\lambda} = R_H \\left( \\frac{1}{n_1^2} - \\frac{1}{n_2^2} \\right) \\)"
+    },
+    {
+        "term": "The Bohr Model of The Atom",
+        "meaning": "Describes quantized orbits for electrons in atoms, explaining hydrogen's emission spectrum. <br> \\( E_n = - \\frac{13.6\\,eV}{n^2} \\)"
+    },
+    {
+        "term": "Atomic, Neutron, and Mass Number",
+        "meaning": "Defines atomic structure using atomic number (Z), neutron number (N), and mass number (A). <br> \\( A = Z + N \\)"
+    },
+    {
+        "term": "Binding Energy",
+        "meaning": "Represents the energy required to separate a nucleus into individual protons and neutrons. <br> \\( E_b = \\Delta m \\cdot c^2 \\)"
+    },
+    {
+        "term": "Radioactivity and Alpha Decay",
+        "meaning": "Explains the spontaneous emission of an alpha particle, reducing both mass and atomic number. <br> \\( {}^{A}_{Z}X \\rightarrow {}^{A-4}_{Z-2}Y + \\alpha \\)"
+    },
+    {
+        "term": "Beta Decay",
+        "meaning": "A neutron transforms into a proton, emitting an electron and antineutrino. <br> \\( n \\rightarrow p + e^- + \\bar{\\nu}_e \\)"
+    },
+    {
+        "term": "Gamma Decay",
+        "meaning": "An excited nucleus releases energy as a gamma photon without changing atomic structure. <br> \\( {}^A_ZX^* \\rightarrow {}^A_ZX + \\gamma \\)"
+    },
+    {
+        "term": "Radioactive Decay Rates",
+        "meaning": "Describes how unstable nuclei decay over time using exponential laws. <br> \\( N(t) = N_0 e^{-\\lambda t} \\)"
+    },
+    {
+        "term": "Nuclear Reactions: Nuclear Fission and Nuclear Fusion",
+        "meaning": "Fission splits heavy nuclei, while fusion joins light nuclei, both releasing massive energy. <br> \\( E = \\Delta m \\cdot c^2 \\)"
     }
 ]
 
